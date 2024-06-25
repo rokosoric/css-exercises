@@ -1,0 +1,18 @@
+.pink-font {
+  background-color: pink;
+  font: Verdana "DejaVu Sans" sans-serif;
+}
+
+#el-two {
+  color: blue;
+  font-size: 36px;
+}
+
+.mid-font {
+  font-size: 24px;
+}
+
+#el-four {
+  background-color: lightgreen;
+  font-weight: bold;
+}
